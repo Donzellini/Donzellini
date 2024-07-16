@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 ### Backend Explorer: Discovering New Possibilities 🔍
 
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
+  <div style="flex: 1">
+    <h4 align="left">About:</h4>
+    <p align="left">
+      <p>I'm a backend developer since 2021, specializing in backend technologies, API integrations, database management (both relational and non-relational), and technical solution specification.</p>
+    </p>
     <h4 align="left">Languages and Tools:</h4>
     <p align="left">
       <a><img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache-airflow" width="20" height="30"/></a> 
