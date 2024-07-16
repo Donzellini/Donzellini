@@ -38,6 +38,7 @@ Here are some ideas to get you started:
       <a><img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" alt="rancher" width="20" height="20"/></a>
       <a><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="20" height="20"/></a>
       <a><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="20" height="20"/></a>
+      <a><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="20" height="20"/></a>
     </p>
   </div>
 
