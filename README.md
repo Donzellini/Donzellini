@@ -41,7 +41,7 @@ Here are some ideas to get you started:
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Donzellini&theme=blue_navy&rank_icon=percentile&show_icons=true&hide_title=true" />
       </a>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Donzellini&layout=compact&theme=blue_navy&langs_count=8&card_width=340&hide_title=true" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Donzellini&layout=compact&theme=blue_navy&langs_count=8&card_width=330&hide_title=true" />
       </a>
     </div>
   </div>
