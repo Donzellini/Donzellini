@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <div style="flex: 2; display: flex; justify-content: center; align-items: center;">
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Donzellini&theme=blue_navy&hide_title=true&rank_icon=percentile" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Donzellini&theme=blue_navy&hide_title=true&rank_icon=percentile&card_width=300" />
       </a>
       <a href="https://github.com/anuraghazra/convoychat">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Donzellini&layout=compact&theme=blue_navy&langs_count=8&hide_title=true&card_width=300" />
