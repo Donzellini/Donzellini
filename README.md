@@ -19,7 +19,7 @@ Here are some ideas to get you started:
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" alt="dynamo-db" width="40" height="40"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fast-api" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background: white;"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a> 
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Donzellini&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <br>
 </p>
+
+
