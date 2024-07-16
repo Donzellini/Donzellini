@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a> <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache-airflow" width="20" height="30"/> </a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a> <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache-airflow" width="20" height="30"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure-devops" width="20" height="30"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> </a> 
                    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" alt="dynamo-db" width="20" height="20"/> </a> 
