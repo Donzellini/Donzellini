@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   <div style="flex: 2; display: flex; justify-content: center; align-items: center;">
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Donzellini&theme=transparent&hide_title=true&hide_rank=true&card_width=330&text_bold=false&show_icons=true" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Donzellini&theme=gotham&hide_title=true&hide_rank=true&card_width=330&text_bold=false&show_icons=true" />
       </a>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Donzellini&layout=compact&theme=transparent&langs_count=8&hide_title=true&card_width=330" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Donzellini&layout=compact&theme=gotham&langs_count=8&hide_title=true&card_width=330" />
       </a>
     </div>
   </div>
