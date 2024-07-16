@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a> <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache-airflow" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure-devops" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" alt="dynamo-db" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fast-api" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background: white;"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" alt="rancher" width="40" height="40"/> </a>
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/> </a>
+<p align="center"> <a> <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache-airflow" width="20" height="30"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure-devops" width="20" height="30"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" alt="dynamo-db" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fast-api" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="20" height="20"/> </a>
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="20" height="20"/> </a>
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> 
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" alt="rancher" width="20" height="20"/> </a>
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="20" height="20"/> </a>
+                   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="20" height="20"/> </a>
 </p>
                  
 <p align="center">
