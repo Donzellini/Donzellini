@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <h3 align="left">Languages and Tools:</h3>
+    <h4 align="left">Languages and Tools:</h4>
     <p align="left">
       <a><img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache-airflow" width="20" height="30"/></a> 
       <a><img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure-devops" width="20" height="30"/></a> 
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   </div>
 
   <div style="flex: 2; display: flex; justify-content: center; align-items: center;">
+    <h4 align="left">Github Stats:</h4>
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Donzellini&theme=gotham&hide_title=true&hide_rank=true&card_width=335&text_bold=false&show_icons=true" />
